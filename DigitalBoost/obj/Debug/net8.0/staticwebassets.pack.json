@@ -1,0 +1,2085 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DigitalBoost.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DigitalBoost.mhy9i2wh14.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets-Manager\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets-Manager\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\assets-Manager\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets-Manager\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets-Manager\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets-Manager\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets-Manager\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\jasmine.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\jasmine.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_auto-import-of-variables-dark.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_color-modes.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_media-query-color-mode-full.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\mixins\\_utilities.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\register.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\register.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\runner.js",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\sass-true\\runner.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\tests\\utilities\\_api.test.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets-Manager\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\About1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\About1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Ads.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Ads.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Card.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Ecommerce.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Ecommerce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Marketing.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Marketing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Pacaking.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Pacaking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\Packaging.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Packaging.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\WebDesign.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\WebDesign.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\hero-carousel\\hero-carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-carousel\\hero-carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\pexels-fauxels-3184429.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-fauxels-3184429.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\pexels-fauxels-3184632.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-fauxels-3184632.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\pexels-yankrukov-7793116.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-yankrukov-7793116.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\app-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\app-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\app-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\books-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\books-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\books-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\branding-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\portfolio\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\r.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\r.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\shanley-cox-service-website.jpg.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\shanley-cox-service-website.jpg.avif"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\skills.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\skills.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\testimonials\\testimonials-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\web1.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\web1.avif"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\web2.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\web2.avif"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\web3.avif",
+      "PackagePath": "staticwebassets\\assets\\img\\web3.avif"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\img\\web4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\web4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\AddDepartment.css",
+      "PackagePath": "staticwebassets\\css\\AddDepartment.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\AddManager.css",
+      "PackagePath": "staticwebassets\\css\\AddManager.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\ContactUs.css",
+      "PackagePath": "staticwebassets\\css\\ContactUs.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\DeleteManager.css",
+      "PackagePath": "staticwebassets\\css\\DeleteManager.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\DepartmentDetails.css",
+      "PackagePath": "staticwebassets\\css\\DepartmentDetails.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\Departments.css",
+      "PackagePath": "staticwebassets\\css\\Departments.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\EditDepartment.css",
+      "PackagePath": "staticwebassets\\css\\EditDepartment.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\EditManager.css",
+      "PackagePath": "staticwebassets\\css\\EditManager.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\EmployeesHR.css",
+      "PackagePath": "staticwebassets\\css\\EmployeesHR.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\Evaluations.css",
+      "PackagePath": "staticwebassets\\css\\Evaluations.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\FeedBack.css",
+      "PackagePath": "staticwebassets\\css\\FeedBack.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\LeaveRequests.css",
+      "PackagePath": "staticwebassets\\css\\LeaveRequests.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\ManagerHR.css",
+      "PackagePath": "staticwebassets\\css\\ManagerHR.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\NavBar.css",
+      "PackagePath": "staticwebassets\\css\\NavBar.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\NewPass.css",
+      "PackagePath": "staticwebassets\\css\\NewPass.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\8f220d14-1abd-4f90-a506-ceb8855150bb.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\8f220d14-1abd-4f90-a506-ceb8855150bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\Screenshot 2024-12-06 012402.png",
+      "PackagePath": "staticwebassets\\images\\profiles\\Screenshot 2024-12-06 012402.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\Screenshot 2024-12-06 020758.png",
+      "PackagePath": "staticwebassets\\images\\profiles\\Screenshot 2024-12-06 020758.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\Screenshot 2025-02-16 213116.png",
+      "PackagePath": "staticwebassets\\images\\profiles\\Screenshot 2025-02-16 213116.png"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\WhatsApp Image 2025-03-04 at 12.19.46_83fe09e3.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\WhatsApp Image 2025-03-04 at 12.19.46_83fe09e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\images\\profiles\\managerAhmad.jpg",
+      "PackagePath": "staticwebassets\\images\\profiles\\managerAhmad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruainaalyasein\\Desktop\\DigitalBoost\\DigitalBoost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigitalBoost.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DigitalBoost.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DigitalBoost.props",
+      "PackagePath": "build\\DigitalBoost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DigitalBoost.props",
+      "PackagePath": "buildMultiTargeting\\DigitalBoost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DigitalBoost.props",
+      "PackagePath": "buildTransitive\\DigitalBoost.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

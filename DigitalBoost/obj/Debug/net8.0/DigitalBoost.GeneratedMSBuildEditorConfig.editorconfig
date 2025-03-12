@@ -1,0 +1,309 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DigitalBoost
+build_property.RootNamespace = DigitalBoost
+build_property.ProjectDir = C:\Users\ruainaalyasein\Desktop\DigitalBoost\DigitalBoost\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ruainaalyasein\Desktop\DigitalBoost\DigitalBoost
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/atendesncc/Indexx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXRlbmRlc25jY1xJbmRleHguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/atendesncc/PunchIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXRlbmRlc25jY1xQdW5jaEluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/Contact1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcQ29udGFjdDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/Department1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcRGVwYXJ0bWVudDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcUG9ydGZvbGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/BaseHome/PortfolioDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZUhvbWVcUG9ydGZvbGlvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ContactUS/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVTXENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ContactUS/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFVTXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ForgetPassword/Department.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcRGVwYXJ0bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ForgetPassword/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ForgetPassword/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ForgetPassword/NewPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcTmV3UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ForgetPassword/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yZ2V0UGFzc3dvcmRcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Homeff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZWZmXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/AddDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQWRkRGVwYXJ0bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/AddManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQWRkTWFuYWdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/ApprovedLeaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQXBwcm92ZWRMZWF2ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/DepartmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRGVwYXJ0bWVudERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/Departments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRGVwYXJ0bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/EditDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRWRpdERlcGFydG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/Employees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRW1wbG95ZWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/Evaluations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRXZhbHVhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/ExportToPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRXhwb3J0VG9QREYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/FeedbackMessages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRmVlZGJhY2tNZXNzYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/HR/ViewLeaveDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcVmlld0xlYXZlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Login/forgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cZm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ManagerHR/AddManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckhSXEFkZE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ManagerHR/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckhSXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ManagerHR/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckhSXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/ManagerHR/Manager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckhSXE1hbmFnZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/Attendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcQXR0ZW5kYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/CreateEmp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcQ3JlYXRlRW1wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/EditTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcRWRpdFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/Evaluation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcRXZhbHVhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/Leaves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcTGVhdmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/ShowAttendance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcU2hvd0F0dGVuZGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/ShowEmployees.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcU2hvd0VtcGxveWVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/showEvaluation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcc2hvd0V2YWx1YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/ShowTasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcU2hvd1Rhc2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcVGFza0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/Tasks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcVGFza3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Managers/test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlcnNcdGVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Profile/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Profile/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Rleave/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmxlYXZlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Rleave/RequestLeave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmxlYXZlXFJlcXVlc3RMZWF2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/DashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/DashboardManagers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZE1hbmFnZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/EmployeeDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVtcGxveWVlRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/NavBar_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdkJhcl9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/TTTT/emptaskk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRUVFxlbXB0YXNray5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/TTTT/vieeval.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFRUVFx2aWVldmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/vacation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/vacation/Requestvaca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmFjYXRpb25cUmVxdWVzdHZhY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ruainaalyasein/Desktop/DigitalBoost/DigitalBoost/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lrfvyu23hm
